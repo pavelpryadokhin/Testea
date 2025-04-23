@@ -57,4 +57,4 @@ curl -X POST "http://127.0.0.1:8000/inference" -H "Content-Type: application/jso
 Пример ответа:
 ```
 {"prediction":933,"model":"catboost"}
-```pip freeze > requirements.txt
+```
